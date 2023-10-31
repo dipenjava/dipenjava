@@ -34,3 +34,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipenjava&show_icons=true&locale=en" alt="dipenjava" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipenjava&" alt="dipenjava" /></p>
+
+[![An image of @dipenjava's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dipenjava)](https://holopin.io/@dipenjava)
+
